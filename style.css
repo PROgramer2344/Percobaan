@@ -14,5 +14,5 @@ canvas{
   --ship-img: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'><polygon points='64,4 92,100 64,80 36,100' fill='%2300ffff'/><polygon points='64,20 80,96 64,86 48,96' fill='%23ffffff'/><rect x='58' y='86' width='12' height='32' fill='%23ff9900'/></svg>");
 
   /* GANTI DENGAN BASE64 MP3 KAMU */
-  --hit-sound: url("https://pixabay.com/id/users/universfield-28281460/");
+  --hit-sound: url("https://www.orangefreesounds.com/wp-content/uploads/2015/07/Gunshot-sound.mp3");
 }
